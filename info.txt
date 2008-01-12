@@ -1,0 +1,31 @@
+"AddonInfo"
+{
+	"name"		"Totster's Extra Stuff"
+	"version"	"7.1"
+	"up_date"	"9th January 2008"
+	"author_name"	"Totster"
+	"author_email"	"totster@hotmail.com"
+	"author_url"	"http://www.team-blaze.co.uk"
+	
+	"info"		"Totster's Extra Stuff - Gmod 10 Addon That Was Made By Totster"
+
+	//
+	// !!!!! This is important !!!!!
+	//
+	// If you are adding new stuff this should be 0
+	// If you're overriding stuff that already exists this should be 1
+	// Loadtimes will increase slightly with every addon you have with 
+	//  this set to 1 - so only set override if you really need to.
+
+	"override"	"0"
+	
+	// Won't be active unless the following GCFs are available and
+	// are mounted
+	"GCFRequires"
+	{
+		"0"		"240" //Counter Strike: Source
+		"0"		"400" //Portal
+		"0"		"420" //Half-Life 2: Episode 2
+		"0"		"440" //Team Fortress 2
+	}
+}
