@@ -1,0 +1,88 @@
+                  _____     _       _                  _____      _               ____  _          __  __ 
+                 |_   _|__ | |_ ___| |_ ___ _ __ ___  | ____|_  _| |_ _ __ __ _  / ___|| |_ _   _ / _|/ _|
+                   | |/ _ \| __/ __| __/ _ \ '__/ __| |  _| \ \/ / __| '__/ _` | \___ \| __| | | | |_| |_ 
+                   | | (_) | |_\__ \ ||  __/ |  \__ \ | |___ >  <| |_| | | (_| |  ___) | |_| |_| |  _|  _|
+                   |_|\___/ \__|___/\__\___|_|  |___/ |_____/_/\_\\__|_|  \__,_| |____/ \__|\__,_|_| |_|  
+                                                         CHANGELOG
+_____________________________________________________________________________________________________________________________
+|-=Added=-|
+-----------
+9th January 2008
+[Added] More options to the T.E.S Menu
+
+Up to 20th December 2007
+[Added] More Orange Box content.
+
+9th November 2007
+[Added] Lamp Light Textures
+[Added] Thruster Models
+
+7th November 2007
+[Added] Totsters Extra NPC Addon v2 - Is now very much a part of Totsters Extra Stuff.
+
+6th November 2007
+[Added] Portal, Team Fortress 2 and Half-Life 2 Episode 2 Stuff. - Information Below -
+
+24th August 2007
+[Added] Emitter Effects.
+
+5th August 2007
+[Added] NPC Relationship - thought it would be good and it is.
+[Added] Hydraulic,Rope,Elastic and Pully rope material selection into Extra-Stuff tab.
+[Added] Extra-Stuff tab in Utilities to keep things organized.
+[Added] TES Menu for those good commands that you may or may not remember but now makes it easier.
+[Added] NPC Control Menu that i made.
+[Added] Spawn effect to the Trails Stool. :)
+[Added] Spawn effect to the Material Stool one that actually works all the time now. :)
+[Added] New Materials to the Trails Stool
+[Added] tesdownloadlist.lua Automatically makes clients download the Models and Materials that are custom and used in this addon.
+_____________________________________________________________________________________________________________________________
+          |-=Changed=-|
+          -------------
+9th November 2007
+[Changed] Entities from the TES menu are now in the SENT menu in the Totsters Extra Stuff section
+
+6th November 2007
+[Changed] Changed the file layout for mostly all of the files to make it look much neater
+
+2nd November 2007
+[Changed] Changed the file layout for the materials to keep them organised :)
+
+11th October 2007
+[Changed] From v7.0 to v7.1
+ 
+5th August 2007
+[Changed] Everything is now done in LUA.
+_____________________________________________________________________________________________________________________________
+                      |-=Removed=-|
+                      -------------
+9th January 2008
+[Removed] Some materials.
+
+21st August 2007
+[Removed] models/props_combine/portalball001_sheet from my extra material file so there was not 2 of the same file.
+					  
+5th August 2007
+[Removed] Jaanus's Models - People were taking too long to download them from server.
+[Removed] Balloon Stool Materials and Balloon Rope Materials - will do if garry put's all the menu's in the tool lua file.
+[Removed] Cheeze's Button Models - No real need for them, maybe if a lot of people want it back in i might think about re-adding.
+[Removed] Some materials that did not look so good.
+
+_____________________________________________________________________________________________________________________________
+                                  |-=Yet To Come=-|
+								  -----------------
+
+[Yet To Come]
+
+_____________________________________________________________________________________________________________________________
+                                                  |-=Current and Previous Versions=-|
+                                                  -----------------------------------
+
+THIS VERSION : v7.1
+CURRENT VERSION : v7.1
+
+- Previous Versions -										  
+16th August - The Release of v7.0
+
+
+_____________________________________________________________________________________________________________________________

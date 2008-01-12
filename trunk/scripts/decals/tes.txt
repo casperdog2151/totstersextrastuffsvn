@@ -1,0 +1,61 @@
+"Combine Core"
+{
+	"decals/decal_combine_core" 	"1"
+}
+
+"Lambda 1"
+{
+	"Decals/lambdaspray_1a" 	"1"
+}
+
+"Lambda 2"
+{
+	"Decals/lambdaspray_2a" 	"1"
+}
+
+"Aperture Logo"
+{
+	"overlays/aperture_lrg001" 	"1"
+}
+
+"Aperture Poster 1"
+{
+	"overlays/aperture_poster001a" 	"1"
+}
+
+"Aperture Poster 2"
+{
+	"overlays/aperture_poster002a" 	"1"
+}
+
+"Aperture Poster 3"
+{
+	"overlays/aperture_poster003a" 	"1"
+}
+
+"The Cake Is A Lie"
+{
+	"overlays/overlay_scrawlings001a" 	"1"
+}
+
+"She's Watching You"
+{
+	"overlays/overlay_scrawlings005a" 	"1"
+}
+
+"White Forest"
+{
+	"overlays/overlay_DWhiteForest" 	"1"
+}
+
+"White Forest Logo"
+{
+	"overlays/whiteForestLogo" 	"1"
+}
+
+"You Are Here"
+{
+	"overlays/youarehere_overlay" 	"1"
+}
+
+Copyright Totsters Extra Stuff - Re-Release of this Addon will result in Castration.
