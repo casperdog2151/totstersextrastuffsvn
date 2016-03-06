@@ -1,0 +1,1 @@
+This is T.E.S (Totster's Extra Stuff) a addon that I have been making for quite a while ranging from different versions. Now I have come to another stage in development in LUA where as now I will be using SVN to keep the latest version of my addon, hope you enjoy as much as I did making it :D
